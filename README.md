@@ -1,2 +1,1 @@
-# Hyprland
-My configs 
+# Explicação Arquivos Principais 
