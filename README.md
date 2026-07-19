@@ -1,1 +1,1 @@
-# Explicação Arquivos Principais 
+# Explicação inicial
