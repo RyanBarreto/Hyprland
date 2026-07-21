@@ -5,7 +5,10 @@
 Recentemente o Hyprland passou por uma grande mudança que foi a troca de sua linguagem base, antes era o hyprlang, agora lua.
 No geral em questão de customização foi uma melhora, mas o contra ponto será a alteração dos códigos hyprland.conf para hyprland.lua para todos os usuarios  
 
+Então, me deparei com um cenário de transição. Possivelmente haverá configurações ou partes diferentes das que este tutorial mostrará, mas, de qualquer forma, estas são as minhas configurações do Hyprland.
+
 ## pós-instalação 
+
 
 
 
