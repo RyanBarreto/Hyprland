@@ -9,7 +9,10 @@ Então, me deparei com um cenário de transição. Possivelmente haverá configu
 
 ## pós-instalação 
 
+O primeiro passo, após instalar o Hyprland, será obter as configurações básicas .lua 
 
+Segue o link:
+https://github.com/hyprwm/Hyprland/blob/main/example/hyprland.lua
 
 
 
