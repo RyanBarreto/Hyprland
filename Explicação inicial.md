@@ -14,4 +14,4 @@ O primeiro passo, após instalar o Hyprland, será obter as configurações bás
 Segue o link:
 https://github.com/hyprwm/Hyprland/blob/main/example/hyprland.lua
 
-Após baixar e trocar a pasta hyprland.lua, separei em Modules todo o arquivo. Então agora basta copiar tudo que está dentro de modules.
+Após baixar e trocar a pasta hyprland.lua, separei em Modules todo o arquivo. Então agora basta copiar tudo que está dentro de [`modules`](./modules).
